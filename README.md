@@ -1,5 +1,6 @@
-Hey I am Céline Brin from France 👋
+Hey I am Céline from France 👋
 
+<stron> Developper Web junior </strong>
 <!--
 **CelineVP/CelineVP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
