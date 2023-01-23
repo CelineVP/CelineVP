@@ -13,7 +13,18 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 
+<a href="https://www.linkedin.com/in/celine-brin/">
+  <img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<h3 align="left">Languages:</h3>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,rails,ruby" />
+</a>
 
 <h3 align="left">Technology Stack:</h3>
-[![My Skills](https://skills.thijs.gg/icons?i=css,html,js,figma&theme=light)](https://skills.thijs.gg)
 
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,figma,bootstrap,discord,heroku,vscode" />
+</a>
