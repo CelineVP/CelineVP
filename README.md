@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 
 
 <h3 align="left">Technology Stack:</h3>
-<p> css html js docker  </p> 
+[![My Skills](https://skills.thijs.gg/icons?i=css,html,js,figma&theme=light)](https://skills.thijs.gg)
+
