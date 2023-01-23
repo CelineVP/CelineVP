@@ -1,17 +1,17 @@
-Hey I am Céline from France 👋
+<h1 align="center"> Hey I am Céline from France ! 👋 </h1>
 
-<stron> Developper Web junior </strong>
-<!--
-**CelineVP/CelineVP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center"> Developper Web Full stack junior </h3>
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 In 2022: transition to the exciting world of web development
+- 🌱 I’m currently learning **Javascript, React**
+- 👯 I work on team https://www.ultracompanion.top/ and individual projects https://www.celinebrin.fr/
+- 💬 I want to learn new languages and improve my skills
+- 📫 How to reach me: **celine-brin@hotmail.fr**
+- ⚡ I love: 🌊 🎮 🏄 🎧 🍕
+
+<h3 align="left">Connect with me:</h3>
+
+
+<h3 align="left">Technology Stack:</h3>
