@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h3 align="left">Languages:</h3>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,rails,ruby" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,rails,ruby,shopify" />
 </a>
 
 <h3 align="left">Technology Stack:</h3>
