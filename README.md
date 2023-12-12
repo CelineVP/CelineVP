@@ -4,11 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 In 2022: transition to the exciting world of web development
-- 🌱 I’m currently learning **Javascript**
 - 👯 I work with the Moon-moon team
-- 💬 I want to learn new languages and improve my skills
-- 📫 How to reach me: **celine-brin@hotmail.fr**
 - ⚡ I love: 🌊 🎮 🏄 🎧 🍕
 
 <h3 align="left">Connect with me:</h3>
